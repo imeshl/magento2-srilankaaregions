@@ -247,7 +247,7 @@ class InstallData implements InstallDataInterface
             ['LK','LK-214','Wariyapola'],
             ['LK','LK-215','Wattegama'],
             ['LK','LK-216','Welimada'],
-            ['LK','LK-217','Wellawaya]
+            ['LK','LK-217','Wellawaya']
         ];
 
         foreach ($data as $row) {
