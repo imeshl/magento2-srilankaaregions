@@ -1,5 +1,5 @@
 {
-    "name": "imeshl/magento2-srilankaaregions",
+    "name": "aloftconsultancy/magento2-srilankaaregions",
     "description": "Regions of Sri Lanka for Magento2.",
     "require": {
         "php": "~5.6.0|~7.0.0|~7.1.0",
@@ -15,7 +15,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "ImeshL\\SriLankaRegions\\": ""
+            "AloftConsultancy\\SriLankaRegions\\": ""
         }
     }
 }
