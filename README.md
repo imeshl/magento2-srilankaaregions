@@ -1,4 +1,4 @@
-# imeshl_SriLankaRegions for Magento2
+# AloftConsultancy_SriLankaRegions for Magento2
 
 Regions/States of Sri Lanka to be used with Magento2.
 
