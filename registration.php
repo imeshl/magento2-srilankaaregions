@@ -8,6 +8,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'ImeshL_SriLankaRegions',
+    'AloftConsultancy_SriLankaRegions',
     __DIR__
 );
